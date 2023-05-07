@@ -9,31 +9,25 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
-	Class26 will run from October 2, 2021.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+<h1 align="center">Hello World.</h1>
+<h2 align="center">Test Project</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mylandmarklogo.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Nigeria
+		collinsuzoka@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:collinsuzoka@gmail.com">Mail to Collins Uzoka</a>
 	</span>
 </div>
 <hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
+	<p> Service : <a href="services/employee/getEmployeeDetails">Get details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+
 
 </body>
 </html>
